@@ -1,0 +1,3 @@
+Week two was difficult but rewarding! The new abstraction layer of working with api calls. It was great to get under the hood and uderstand what express.js is doing for us - TJ Holloway, the alleged sole creator of express seems like a brilliant person. The data structures are all still sinking in, but ive realized the best way to understand is to just talk it out, the visualization its fairly liquid and hard to grasp but im getting more comfortable.
+
+Group projects are on the horizon, it will be interesting to implement everything we have learned in the past two weeks to collaborate and revisit group collaboration and version contorl.
