@@ -1,0 +1,1 @@
+As our foray into the front end has begun, i am quite nervous and excited. I most of all want time to let the knowledge of the back end sink in while doing my best to adjust to a new paradigm in the front end. I look forward to modernizing my approach in my own independent projects after getting through this part of the course.
