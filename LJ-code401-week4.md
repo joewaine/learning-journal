@@ -1,0 +1,2 @@
+wow this has been one hell of a week, i feel like im in system overload already - luckily project week will be a good time to review all of this stuff and really get some usage out of what weve been working so hard to learn. Im happy tp be working with Dean and Roger and Liza, they seem really cool and this will be a great project. Ive been familiarizing myself with Postman a lot, which is a great tool. I think i prefer the visual interface and usability to it over http pie. seems like people go one way or the other.
+
